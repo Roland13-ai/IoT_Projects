@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "My projects",
+			"path": "Projects"
+		},
+		{
+			"name": "My library",
+			"path": "Bibliotheques"
+		},
+	
+	],
+	"settings": {}
+}
